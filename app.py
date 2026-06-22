@@ -12,7 +12,7 @@ import copy
 # CONFIGURAÇÃO DA PÁGINA
 # ─────────────────────────────────────────────
 st.set_page_config(
-    page_title="Class PI — INCUBAC/IFAC",
+    page_title="Tabela de Cenários de Propriedade Intelectual - Classificador de cenários PI — INCUBAC/IFAC",
     page_icon="⚖️",
     layout="wide",
     initial_sidebar_state="collapsed",
