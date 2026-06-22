@@ -480,7 +480,7 @@ NUCLEOS = [
     "Campus Feijó",
     "Campus Xapuri",
     "Campus Brasileia",
-    "Campus Placas",
+    "Campus Baixada do Sol (Transacreana)",
     "Outro",
 ]
 
